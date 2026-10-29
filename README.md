@@ -48,6 +48,10 @@ Supercheck combines capabilities that are commonly split across test automation,
 
 Follow the [self-hosting guide](https://supercheck.io/docs/app/deployment/self-hosted) to install Supercheck on a Linux server and configure HTTPS, optional integrations, backups, and worker scaling.
 
+### One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Supercheck/)
+
 ### Install the CLI
 
 The CLI requires Node.js 20 or later.
